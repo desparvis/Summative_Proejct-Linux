@@ -6,27 +6,27 @@
 
 ## Project Structure
 
-Project/
-│
-├── question1/
-│   ├── program.c
-│   ├── program (stripped ELF)
-│   └── report.md
-│
-├── question2/
-│   └── q2.asm
-│
-├── question3/
-│   ├── vibration.c
-│   ├── setup.py
-│   └── test_vibration.py
-│
-├── question4/
-│   └── q4.c
-│
-├── question5/
-│   ├── server.c
-│   └── client.c
+Project/<br>
+│<br>
+├── question1/<br>
+│   ├── program.c<br>
+│   ├── program (stripped ELF)<br>
+│   └── report.md<br>
+│<br>
+├── question2/<br>
+│   └── q2.asm<br>
+│<br>
+├── question3/<br>
+│   ├── vibration.c<br>
+│   ├── setup.py<br>
+│   └── test_vibration.py<br>
+│<br>
+├── question4/<br>
+│   └── q4.c<br>
+│<br>
+├── question5/<br>
+│   ├── server.c<br>
+│   └── client.c<br>
 
 # Compilation & Execution Guide
 
